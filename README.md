@@ -1,2 +1,1 @@
-# pokedex-Appmoove
- Teste prático para o estágio de Frontend Appmoove
+Para executar o projetos abra a pasta "pokedex-appmoove", abra o terminal e execute $yarn install, depois execute $yarn start
